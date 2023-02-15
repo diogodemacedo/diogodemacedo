@@ -1,7 +1,5 @@
-# Olá! I'm Diogo![⚛](https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") .atom {
-  color: #FF0000;
-} 
-:material-atom:{ .atom }
+# Olá! I'm Diogo![⚛](https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") 
+:material-atom:
 **`Physics Master Student`**
 
 Add bio about me here.
