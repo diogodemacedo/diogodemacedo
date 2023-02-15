@@ -21,6 +21,6 @@ Add bio about me here.
 <img align="left" alt="Raspberrypi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
 
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact)](https://github.com/diogodemacedo/github-readme-stats)
+# Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact)](https://github.com/diogodemacedo/github-readme-stats)  ![Diogo stats](https://github-readme-stats.vercel.app/api?username=diogodemacedo=true&theme=github_dark)
           
