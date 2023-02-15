@@ -1,4 +1,6 @@
 ## Olá! I'm Diogo![⚛](https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") 
+            <i class="devicon-react-original colored"></i>
+          
 **`Physics Master Student`**
 
 Add bio about me here.
