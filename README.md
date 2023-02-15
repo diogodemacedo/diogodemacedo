@@ -1,4 +1,4 @@
-# Olá! I'm Diogo [🕷](https://cdn.emojidex.com/emoji/seal/spider.png "spider")  ![Atom](https://t3.ftcdn.net/jpg/03/35/62/74/240_F_335627495_TYgzPi0LTM3TLYrSL5uW0wjwHqVaW6mq.jpg)
+# Olá! I'm Diogo [🕷](https://cdn.emojidex.com/emoji/seal/spider.png "spider")  ![Atom](https://t3.ftcdn.net/jpg/03/35/62/74/240_F_335627495_TYgzPi0LTM3TLYrSL5uW0wjwHqVaW6mq.jpg) <img src="Atom" alt= “” width="0.5" height="0.5">
           
 **`Physics Master Student`**
 
