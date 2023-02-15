@@ -1,6 +1,5 @@
 # Olá! I'm Diogo 👋
-
-**'Physics Master Student'**
+**`Physics Master Student`**
 
 Add bio about me here.
 
