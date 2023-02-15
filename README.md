@@ -1,11 +1,4 @@
-markdown_extensions:
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-
-
-## Olá! I'm Diogo![⚛](https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") 
+## Olá! I'm Diogo![⚛] (https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") 
           
 **`Physics Master Student`**
 
