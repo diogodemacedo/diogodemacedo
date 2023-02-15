@@ -1,4 +1,4 @@
-# Olá! I'm Diogo(https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") [⚛](https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") :love_you_gesture:
+# Olá! I'm Diogo (https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") [⚛](https://cdn.emojidex.com/emoji/seal/atom_symbol.png "atom symbol") :love_you_gesture:
           
 **`Physics Master Student`**
 
