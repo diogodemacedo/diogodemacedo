@@ -22,5 +22,6 @@ Add bio about me here.
 <br />
 
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact)](https://github.com/diogodemacedo/github-readme-stats)  ![Diogo stats](https://github-readme-stats.vercel.app/api?username=diogodemacedo&theme=github_dark)
+![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact)](https://github.com/diogodemacedo/github-readme-stats)  
+![Diogo stats](https://github-readme-stats.vercel.app/api?username=diogodemacedo&theme=github_dark)
           
