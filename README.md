@@ -22,4 +22,4 @@ Add bio about me here.
 <br />
 
 ### Stats
-![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact)
+![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact&theme=transparent)
