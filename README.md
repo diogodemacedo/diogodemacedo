@@ -1,4 +1,6 @@
 # Olá! I'm Diogo ![atom](https://github.com/diogodemacedo/diogodemacedo/blob/1743449cf68ff235c988beaecdd87cdae5ee2db6/atom-png-27369_1_-removebg-preview.png) 
+<img src="https://github.com/diogodemacedo/diogodemacedo/raw/main/atom-png-27369_1_-removebg-preview.png" alt="atom" width="20" height="20">
+
           
 **`Physics Master Student`**
 
