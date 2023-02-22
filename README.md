@@ -1,4 +1,4 @@
-# Olá! I'm Diogo [atomito](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Emoji_u269b.svg/128px-Emoji_u269b.svg.png?20170527190453)
+# Olá! I'm Diogo [atomito](https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg)
           
 **`Physics Master Student`**
 
