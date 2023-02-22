@@ -1,4 +1,4 @@
-header-includes: \usepackage{xcolor}
+\usepackage{xcolor}
           
 # Olá! I'm Diogo <img src="https://github.com/diogodemacedo/diogodemacedo/raw/main/atom-png-27369_1_-removebg-preview.png" alt="atom" width="20" height="20">
 
