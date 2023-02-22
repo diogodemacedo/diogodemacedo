@@ -1,10 +1,16 @@
+<style>
+.red-link {
+  color: red;
+}
+</style>
+
+
 # Olá! I'm Diogo <img src="https://github.com/diogodemacedo/diogodemacedo/raw/main/atom-png-27369_1_-removebg-preview.png" alt="atom" width="20" height="20">
 
 **`Aspiring Physicist`**
 
-[<span style="color:red">This text will be red</span>](https://www.plasmapy.org/)
+<a class="red-link" href="https://www.example.com">This is a red hyperlink</a>
 
-<a href="https://www.plasmapy.org/" style="color: red;">This is a red hyperlink</a>
 
 
 
