@@ -1,4 +1,4 @@
-# Olá! I'm Diogo [🕷](https://cdn.emojidex.com/emoji/seal/spider.png "spider")
+# Olá! I'm Diogo [atomito](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Emoji_u269b.svg/128px-Emoji_u269b.svg.png?20170527190453)
           
 **`Physics Master Student`**
 
