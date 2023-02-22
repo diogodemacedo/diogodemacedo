@@ -11,7 +11,7 @@ a[href='red'] {
     cursor: default;
     text-decoration: none;
 }
-[Look, ma! Red!](red)
+![Look, ma! Red!](red)
 
 
 ---
