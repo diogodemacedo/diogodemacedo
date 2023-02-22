@@ -1,5 +1,4 @@
-# Olá! I'm Diogo [atomito](https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg) 
-<a href="https://www.freeiconspng.com/img/27369" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/atom-png-29.png" width="20" alt="Atom Images Download Png Free" /></a>
+# Olá! I'm Diogo [atomito](atom-png-27369_1_-removebg-preview.png) 
           
 **`Physics Master Student`**
 
