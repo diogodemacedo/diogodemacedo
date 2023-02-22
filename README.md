@@ -1,4 +1,4 @@
-# Olá! I'm Diogo [atomito](https://github.com/diogodemacedo/diogodemacedo/blob/1743449cf68ff235c988beaecdd87cdae5ee2db6/atom-png-27369_1_-removebg-preview.png) 
+# Olá! I'm Diogo ![atom](https://github.com/diogodemacedo/diogodemacedo/blob/1743449cf68ff235c988beaecdd87cdae5ee2db6/atom-png-27369_1_-removebg-preview.png) 
           
 **`Physics Master Student`**
 
