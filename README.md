@@ -11,8 +11,7 @@ a[href='red'] {
     cursor: default;
     text-decoration: none;
 }
-
-<a href="red">Look, ma! Red!</a>
+[Look, ma! Red!](red)
 
 
 ---
