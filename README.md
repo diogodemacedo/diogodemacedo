@@ -2,6 +2,8 @@
 
 **`Aspiring Physicist`**
 
+[<span style="color:red">This text will be red</span>](https://www.plasmapy.org/)
+
 <a href="https://www.plasmapy.org/" style="color: red;">This is a red hyperlink</a>
 
 
