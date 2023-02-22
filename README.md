@@ -1,4 +1,4 @@
-# Olá! I'm Diogo <img src="https://github.com/diogodemacedo/diogodemacedo/raw/main/atom-png-27369_1_-removebg-preview.png" alt="atom" width="35" height="30">
+# Olá! I'm Diogo <img src="https://github.com/diogodemacedo/diogodemacedo/raw/main/atom-png-27369_1_-removebg-preview.png" alt="atom" width="30" height="30">
 
           
 **`Physics Master Student`**
