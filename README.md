@@ -1,9 +1,10 @@
 # Olá! I'm Diogo <img src="https://github.com/diogodemacedo/diogodemacedo/raw/main/atom-png-27369_1_-removebg-preview.png" alt="atom" width="20" height="20">
 
           
-**`Physics Master Student`**
+**`Aspiring Physicist`**
 
-Add bio about me here.
+I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu.pl/tl_files/informator/IIst/2022-2023/Plan_2022_S2-FZ-ANG-PP.pdf) and simultaneously helping out as research assistant in the [Nuclear Physics Division](http://www.zfj.fuw.edu.pl/index.php?page=18). My work includes BLA BLA. I am particularly interested in the physical and technical aspects of plasmas, specifically in the context of nuclear fusion as a means towards sustainable energy. I enjoy collaborating on open-source projects related to these topics, shout out to [PlasmaPy](https://www.plasmapy.org/), and try to contribute as often as I can. 
+
 
 ---
        
@@ -22,7 +23,6 @@ Add bio about me here.
 <img align="left" alt="Raspberrypi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
 
-\
 
 ### Stats
 ![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact&theme=transparent)
