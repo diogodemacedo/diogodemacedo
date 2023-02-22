@@ -1,7 +1,7 @@
 # Olá! I'm Diogo <img src="https://github.com/diogodemacedo/diogodemacedo/raw/main/atom-png-27369_1_-removebg-preview.png" alt="atom" width="20" height="20">
 
 **`Aspiring Physicist`** 
-**$\text{\color{red}{Particle Physics at FUW \ is \ a \ paragraph}}$**
+**$\textit{\color{red}{Particle Physics at FUW \ is \ a \ paragraph}}$**
 
 (https://www.fuw.edu.pl/tl_files/informator/IIst/2022-2023/Plan_2022_S2-FZ-ANG-PP.pdf)
 
