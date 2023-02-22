@@ -21,6 +21,7 @@ Add bio about me here.
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Raspberrypi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
+---
 
 ### Stats
 ![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact&theme=transparent)
