@@ -2,7 +2,10 @@
 
 **`Aspiring Physicist`**
 
-I'm currently doing my master's in ${\color{red}Particle Physics}$[Particle Physics at FUW](https://www.fuw.edu.pl/tl_files/informator/IIst/2022-2023/Plan_2022_S2-FZ-ANG-PP.pdf) and simultaneously helping out as research assistant in the [Nuclear Physics Division](http://www.zfj.fuw.edu.pl/index.php?page=18). My work includes optimazing the process of analyzing data collected by neutron detectors. I am particularly interested in the physical and technical aspects of plasmas, specifically in the context of nuclear fusion as a means towards sustainable energy. I enjoy collaborating on open-source projects related to these topics, shout out to [PlasmaPy](https://www.plasmapy.org/), and try to contribute as often as I can. 
+This word is <span style="color:blue">blue</span>.
+
+
+I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu.pl/tl_files/informator/IIst/2022-2023/Plan_2022_S2-FZ-ANG-PP.pdf) and simultaneously helping out as research assistant in the [Nuclear Physics Division](http://www.zfj.fuw.edu.pl/index.php?page=18). My work includes optimazing the process of analyzing data collected by neutron detectors. I am particularly interested in the physical and technical aspects of plasmas, specifically in the context of nuclear fusion as a means towards sustainable energy. I enjoy collaborating on open-source projects related to these topics, shout out to [PlasmaPy](https://www.plasmapy.org/), and try to contribute as often as I can. 
 
 
 
