@@ -35,19 +35,19 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
       
 
  ```python
-       class Sy(Person):
+class Sy(Person):
     def __init__(self):
-        self.name = 'Sy Rashid'
-        self.age = 30
-        self.work = ['MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon']
-        self.education = ['Georgia Tech BS', 'HBX/HBS', 'Le Wagon', 'Georgia Tech MS']
-        self.hobbies = ['Skydiving', 'Snowboarding', 'Tacos']
+        self.name = 'Diogo'
+        self.age = 26
+        self.education = ['BSc Biophysics, RUC', 'MSc Particle Physics, FUW (ongoing)']
+        self.workplaces = ['MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon']
+        self.hobbies = ['Football', 'Snowboarding', 'Travelling']
 
-    def current_location(self):
-        return 'Lisbon, Portugal'
-
-    def next_locations(self):
-        return ['London, UK', 'Cape Town, SA']
+    def previous_locations(self):
+        return ['Porto, Portugal', 'København, Denmark', 'Bornholm, Denmark']
+       
+    def current_location(self):      
+        return 'Warszawa, Poland' 
 
     def currently(self):
         return {
