@@ -31,7 +31,10 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
 
 <details>
  <summary><h3>A Little More Abobut Me</h3></summary>
-    ```ruby
+ 
+      
+
+ ```ruby
  class Sy < Person
    def initialize
      @name = 'Sy Rashid'
@@ -58,4 +61,5 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
    end
  end
  ```
+ 
 <br>
