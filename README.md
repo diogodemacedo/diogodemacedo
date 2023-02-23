@@ -31,24 +31,30 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
 
 <details>
  <summary><h3>A Little More Abobut Me</h3></summary>
-       
-class Sy(Person):
-    def __init__(self):
-        self.name = 'Sy Rashid'
-        self.age = 30
-        self.work = ['MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon']
-        self.education = ['Georgia Tech BS', 'HBX/HBS', 'Le Wagon', 'Georgia Tech MS']
-        self.hobbies = ['Skydiving', 'Snowboarding', 'Tacos']
+    ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 30
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon' ]
+     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+   end
 
-    def current_location(self):
-        return 'Lisbon, Portugal'
+   def current_location
+     'Lisbon, Portugal'
+   end
 
-    def next_locations(self):
-        return ['London, UK', 'Cape Town, SA']
+   def next_locations
+     ['London, UK', 'Cape Town, SA']
+   end
 
-    def currently(self):
-        return {
-            'studying': ['Intro to Information Security'],
-            'reading': ['Rails AntiPatterns', 'AIQ'],
-            'tinkering': ['Linear Algebra', 'Python']
-        }
+   def currently
+     {
+       studying: [ 'Intro to Information Security' ],
+       reading: [ 'Rails AntiPatterns', 'AIQ' ],
+       tinkering: [ 'Linear Algebra', 'Python' ]
+      }
+   end
+ end
+ ```
