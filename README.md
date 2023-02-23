@@ -32,7 +32,7 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
 <details>
  <summary><h3>A Little More Abobut Me</h3></summary>
        
-   class Sy(Person):
+class Sy(Person):
     def __init__(self):
         self.name = 'Sy Rashid'
         self.age = 30
@@ -52,5 +52,3 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
             'reading': ['Rails AntiPatterns', 'AIQ'],
             'tinkering': ['Linear Algebra', 'Python']
         }
-
-
