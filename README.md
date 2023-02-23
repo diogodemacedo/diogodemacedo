@@ -23,6 +23,13 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
 <img align="left" alt="Raspberrypi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
 
+#
+
+<details>
+ <summary><h3>A Little More Abobut Me</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation.
+
+
 
 ### Stats
 ![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogodemacedo&layout=compact&theme=transparent)
