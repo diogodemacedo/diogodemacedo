@@ -31,5 +31,26 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
 
 <details>
  <summary><h3>A Little More Abobut Me</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation.
+       
+   class Sy(Person):
+    def __init__(self):
+        self.name = 'Sy Rashid'
+        self.age = 30
+        self.work = ['MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon']
+        self.education = ['Georgia Tech BS', 'HBX/HBS', 'Le Wagon', 'Georgia Tech MS']
+        self.hobbies = ['Skydiving', 'Snowboarding', 'Tacos']
+
+    def current_location(self):
+        return 'Lisbon, Portugal'
+
+    def next_locations(self):
+        return ['London, UK', 'Cape Town, SA']
+
+    def currently(self):
+        return {
+            'studying': ['Intro to Information Security'],
+            'reading': ['Rails AntiPatterns', 'AIQ'],
+            'tinkering': ['Linear Algebra', 'Python']
+        }
+
 
