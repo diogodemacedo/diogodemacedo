@@ -30,7 +30,7 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
 #
 
 <details>
- <summary><h3>A Little More Abobut Me</h3></summary>
+ <summary><h3>A Little More About Me</h3></summary>
  
       
 
@@ -40,8 +40,8 @@ class Sy(Person):
         self.name = 'Diogo'
         self.age = 26
         self.education = ['BSc Biophysics, RUC', 'MSc Particle Physics, FUW (ongoing)']
-        self.workplaces = ['MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon']
-        self.hobbies = ['Football', 'Snowboarding', 'Travelling']
+        self.workplaces = ['Team Bornholm', 'H8 Nexø Havn']
+        self.hobbies = ['Football', 'Volunteering', 'Travelling', 'Creative Writing']
 
     def previous_locations(self):
         return ['Porto, Portugal', 'København, Denmark', 'Bornholm, Denmark']
@@ -51,9 +51,9 @@ class Sy(Person):
 
     def currently(self):
         return {
-            'studying': ['Intro to Information Security'],
-            'reading': ['Rails AntiPatterns', 'AIQ'],
-            'tinkering': ['Linear Algebra', 'Python']
+            'studying': ['Scientific Computing with Fortran'],
+            'reading': ['Strange Case of Dr Jekyll and Mr Hyde'],
+            'interests': ['Plasma Physics', 'Nuclear Fusion', 'Molecular Mechanics', 'Genetics']
         }
 
  
