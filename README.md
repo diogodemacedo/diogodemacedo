@@ -41,7 +41,7 @@ I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu
       
 
  ```python
-class Sy(Person):
+class Person:
     def __init__(self):
         self.name = 'Diogo'
         self.age = 26
