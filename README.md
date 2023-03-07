@@ -46,7 +46,7 @@ class Sy(Person):
         self.name = 'Diogo'
         self.age = 26
         self.education = ['BSc Biophysics, RUC', 'MSc Particle Physics, FUW (ongoing)']
-        self.workplaces = ['Team Bornholm', 'H8 Nexø Havn']
+        self.workplaces = ['A/S Team Bornholm', 'H8 Nexø Havn']
         self.hobbies = ['Football', 'Volunteering', 'Travelling', 'Creative Writing']
 
     def previous_locations(self):
