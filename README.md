@@ -2,11 +2,7 @@
 
 **`Aspiring Physicist`** 
 
-I'm currently doing my master's in [Particle Physics at FUW](https://www.fuw.edu.pl/tl_files/informator/IIst/2022-2023/Plan_2022_S2-FZ-ANG-PP.pdf) and simultaneously helping out as a student assistant in the [Nuclear Physics Division](http://www.zfj.fuw.edu.pl/index.php?page=18). My work includes optimazing the process of analyzing data collected by neutron detectors. I intend to specialize in the physical and technical aspects of plasmas, particularly in the context of nuclear fusion as a means towards sustainable energy. My interest focuses on modelling the complex interactions between plasma particles and magnetic fields, in order to understand the behaviour of plasma in extreme environments, such as those found in nuclear reactors. I enjoy collaborating on open-source projects related to these topics, shout out to [PlasmaPy](https://www.plasmapy.org/), and try to contribute as often as I can. 
-
-
-
-
+I'm currently pursuing a master's degree in [Particle Physics at FUW](https://www.fuw.edu.pl/tl_files/informator/IIst/2022-2023/Plan_2022_S2-FZ-ANG-PP.pdf) and simultaneously working as a research assistant at [IPPLM](https://www.ifpilm.pl/en/), where I primarily use gamma spectroscopy to analyze materials that have been irradiated in a neutron flux on the JET tokamak and conduct calculations and numerical simulations in the field of neutronics. I intend to specialize in the physical and technical aspects of plasmas, particularly in the context of nuclear fusion as a means towards sustainable energy. My interest focuses on modelling the complex interactions between plasma particles and magnetic fields, in order to understand the behaviour of plasma in extreme environments, such as those found in nuclear reactors. I also enjoy collaborating on open-source projects related to these topics, shout out to [PlasmaPy](https://www.plasmapy.org/), and try to contribute as often as I can. 
 
 
 ---
